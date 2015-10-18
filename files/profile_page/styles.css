@@ -1,0 +1,242 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1113px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:82px;
+  top:5px;
+  width:147px;
+  height:103px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:147px;
+  height:103px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:44px;
+  width:143px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:90px;
+  top:80px;
+  width:1020px;
+  height:780px;
+  font-size:18px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1020px;
+  height:780px;
+}
+#u3 {
+  position:absolute;
+  left:15px;
+  top:382px;
+  width:990px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:980px;
+  top:83px;
+  width:130px;
+  height:51px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:130px;
+  height:51px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:126px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:82px;
+  top:83px;
+  width:898px;
+  height:51px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:898px;
+  height:51px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:894px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8 {
+  position:absolute;
+  left:873px;
+  top:50px;
+  width:240px;
+  height:50px;
+  font-family:'Lucida Calligraphy Italic', 'Lucida Calligraphy';
+  font-weight:400;
+  font-style:italic;
+  font-size:20px;
+  color:#0066FF;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:50px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u10 {
+  position:absolute;
+  left:800px;
+  top:690px;
+  width:100px;
+  height:30px;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u12 {
+  position:absolute;
+  left:873px;
+  top:50px;
+  width:240px;
+  height:50px;
+  font-family:'Lucida Calligraphy Italic', 'Lucida Calligraphy';
+  font-weight:400;
+  font-style:italic;
+  font-size:20px;
+  color:#0066FF;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:50px;
+}
+#u13 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u14 {
+  position:absolute;
+  left:475px;
+  top:181px;
+  width:139px;
+  height:29px;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:139px;
+  height:29px;
+}
+#u15 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:139px;
+  white-space:nowrap;
+}
+#u16 {
+  position:absolute;
+  left:444px;
+  top:290px;
+  width:200px;
+  height:100px;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:100px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:35px;
+  width:196px;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
+  left:90px;
+  top:83px;
+  width:899px;
+  height:51px;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:899px;
+  height:51px;
+}
+#u19 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:895px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
